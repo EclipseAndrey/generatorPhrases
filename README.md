@@ -1,6 +1,6 @@
-# adamlab
+# Генератор фраз
 
-A new Flutter application.
+Приложение для умных цитат
 
 ## Getting Started
 
